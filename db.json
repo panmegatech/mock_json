@@ -3,67 +3,67 @@
     {
       "id": 1,
       "title": "Indie, Pop, Alternative, New Wave 273",
-      "description": "รวมเพลงอินดี้ ป็อป อัลเทอร์เนทีฟ และนิวเวฟ ฟังสบาย ฟีลดี",
+      "description": "Collection of indie, pop, alternative, and new wave tracks.",
       "image_url": "https://i.ytimg.com/vi/GRdWGLMw8II/default.jpg"
     },
     {
       "id": 2,
       "title": "Alice <0>",
-      "description": "เพลงจากเพลย์ลิสต์ ALICE <0> แนว experimental และ dreamy",
+      "description": "Experimental and dreamy music selection.",
       "image_url": "https://i.ytimg.com/vi/5-I1lT6Jbdo/default.jpg"
     },
     {
       "id": 3,
       "title": "Mesmerizing Tracks",
-      "description": "🧘 เพลย์ลิสต์รวมเพลงที่ฟังแล้วล่องลอย เหมือน musical weed",
+      "description": "A playlist of songs that feel dreamy and floating.",
       "image_url": "https://i.ytimg.com/vi/7kNzDk2CPHI/default.jpg"
     },
     {
       "id": 4,
       "title": "Electro, Synthpop",
-      "description": "รวมเพลง electronic และ synthpop",
+      "description": "Electronic and synthpop tunes.",
       "image_url": "https://i.ytimg.com/vi/AoKrfZSTUXo/default.jpg"
     },
     {
       "id": 5,
       "title": "Ethereal, Heavenly Voices",
-      "description": "เพลงที่มีเสียงร้องล่องลอย เหมือนอยู่ในสวรรค์",
+      "description": "Tracks with ethereal and heavenly vocals.",
       "image_url": "https://i.ytimg.com/vi/AQs4ab99THE/default.jpg"
     },
     {
       "id": 6,
       "title": "Indie, Pop, Alternative, New Wave 272",
-      "description": "รวมเพลงอินดี้ป็อปอีกหนึ่งชุดต่อเนื่องจาก 273",
+      "description": "Another indie pop collection continuing from 273.",
       "image_url": "https://i.ytimg.com/vi/roIaUb1TWYw/default.jpg"
     },
     {
       "id": 7,
       "title": "Female Vocalists",
-      "description": "รวมเพลงศิลปินหญิงที่มีพลังเสียงโดดเด่น",
+      "description": "Songs featuring powerful female voices.",
       "image_url": "https://i.ytimg.com/vi/JOVQ4vAmM7Y/default.jpg"
     },
     {
       "id": 8,
       "title": "Punk",
-      "description": "เพลงแนวพังค์แบบดิบ ๆ มันส์ ๆ",
+      "description": "Raw and energetic punk tracks.",
       "image_url": "https://i.ytimg.com/vi/CEQsFA-CX3c/default.jpg"
     },
     {
       "id": 9,
       "title": "Rock it all!",
-      "description": "รวมเพลงร็อคในตำนานและเพลงดัง",
+      "description": "Legendary rock tracks and popular hits.",
       "image_url": "https://i.ytimg.com/vi/XM0TUtqddpg/default.jpg"
     },
     {
       "id": 10,
       "title": "Darkwave, Goth, Post-Punk",
-      "description": "รวมเพลง darkwave, goth และ post-punk บรรยากาศเข้มขรึม",
+      "description": "Darkwave, goth, and post-punk vibes.",
       "image_url": "https://i.ytimg.com/vi/_AX6cTDKRjw/default.jpg"
     },
     {
       "id": 11,
       "title": "Phili192 2025",
-      "description": "เพลย์ลิสต์เพลงเลือกสรรจาก Phil72 Le Mans",
+      "description": "Curated tracks from Phil72 Le Mans.",
       "image_url": "https://i.ytimg.com/vi/ZjqLmCpPyKM/default.jpg"
     }
   ],
@@ -124,7 +124,6 @@
       "image_url": "https://i.ytimg.com/vi/Rwsrle4HenE/default.jpg",
       "track_url": "https://youtube.com/watch?v=Rwsrle4HenE"
     },
-
     {
       "id": 201,
       "playlist_id": 2,
@@ -132,15 +131,13 @@
       "image_url": "https://i.ytimg.com/vi/5-I1lT6Jbdo/default.jpg",
       "track_url": "https://youtube.com/watch?v=5-I1lT6Jbdo"
     },
-
     {
       "id": 301,
       "playlist_id": 3,
-      "title": "K's Choice - Virgin State of Mind.",
+      "title": "K's Choice - Virgin State of Mind",
       "image_url": "https://i.ytimg.com/vi/7kNzDk2CPHI/default.jpg",
       "track_url": "https://youtube.com/watch?v=7kNzDk2CPHI"
     },
-
     {
       "id": 401,
       "playlist_id": 4,
@@ -151,11 +148,10 @@
     {
       "id": 402,
       "playlist_id": 4,
-      "title": "metroland - the passenger",
+      "title": "Metroland - The Passenger",
       "image_url": "https://i.ytimg.com/vi/V6NsNM3HTW4/default.jpg",
       "track_url": "https://youtube.com/watch?v=V6NsNM3HTW4"
     },
-
     {
       "id": 501,
       "playlist_id": 5,
@@ -163,7 +159,6 @@
       "image_url": "https://i.ytimg.com/vi/AQs4ab99THE/default.jpg",
       "track_url": "https://youtube.com/watch?v=AQs4ab99THE"
     },
-
     {
       "id": 601,
       "playlist_id": 6,
@@ -171,7 +166,6 @@
       "image_url": "https://i.ytimg.com/vi/roIaUb1TWYw/default.jpg",
       "track_url": "https://youtube.com/watch?v=roIaUb1TWYw"
     },
-
     {
       "id": 701,
       "playlist_id": 7,
@@ -179,7 +173,6 @@
       "image_url": "https://i.ytimg.com/vi/JOVQ4vAmM7Y/default.jpg",
       "track_url": "https://youtube.com/watch?v=JOVQ4vAmM7Y"
     },
-
     {
       "id": 801,
       "playlist_id": 8,
@@ -187,7 +180,6 @@
       "image_url": "https://i.ytimg.com/vi/CEQsFA-CX3c/default.jpg",
       "track_url": "https://youtube.com/watch?v=CEQsFA-CX3c"
     },
-
     {
       "id": 901,
       "playlist_id": 9,
@@ -195,7 +187,6 @@
       "image_url": "https://i.ytimg.com/vi/XM0TUtqddpg/default.jpg",
       "track_url": "https://youtube.com/watch?v=XM0TUtqddpg"
     },
-
     {
       "id": 1001,
       "playlist_id": 10,
@@ -203,7 +194,6 @@
       "image_url": "https://i.ytimg.com/vi/_AX6cTDKRjw/default.jpg",
       "track_url": "https://youtube.com/watch?v=_AX6cTDKRjw"
     },
-
     {
       "id": 1101,
       "playlist_id": 11,
