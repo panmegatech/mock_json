@@ -54,7 +54,6 @@
       "description": "Legendary rock tracks and popular hits.",
       "image_url": "https://i.ytimg.com/vi/XM0TUtqddpg/default.jpg"
     }
-    
   ],
   "songs": [
     {
@@ -64,7 +63,7 @@
       "artist": "LUCKY",
       "duration": "3:23",
       "image_url": "https://i.ytimg.com/vi/GRdWGLMw8II/default.jpg",
-      "track_url": "https://youtube.com/watch?v=GRdWGLMw8II"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample1.mp3"
     },
     {
       "id": 102,
@@ -73,7 +72,7 @@
       "artist": "Zenxith",
       "duration": "2:51",
       "image_url": "https://i.ytimg.com/vi/8mPKt6xMVYw/default.jpg",
-      "track_url": "https://youtube.com/watch?v=8mPKt6xMVYw"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample2.mp3"
     },
     {
       "id": 103,
@@ -82,7 +81,7 @@
       "artist": "Keuning",
       "duration": "3:47",
       "image_url": "https://i.ytimg.com/vi/IHApGhd3PSY/default.jpg",
-      "track_url": "https://youtube.com/watch?v=IHApGhd3PSY"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample3.mp3"
     },
     {
       "id": 104,
@@ -91,9 +90,8 @@
       "artist": "Shadowgraphs",
       "duration": "4:02",
       "image_url": "https://i.ytimg.com/vi/vtfbdYB4Pyo/default.jpg",
-      "track_url": "https://youtube.com/watch?v=vtfbdYB4Pyo"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample4.mp3"
     },
-    
     {
       "id": 201,
       "playlist_id": 2,
@@ -101,7 +99,7 @@
       "artist": "Yaelokre",
       "duration": "3:30",
       "image_url": "https://i.ytimg.com/vi/5-I1lT6Jbdo/default.jpg",
-      "track_url": "https://youtube.com/watch?v=5-I1lT6Jbdo"
+      "track_url": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3"
     },
     {
       "id": 202,
@@ -110,7 +108,7 @@
       "artist": "M83",
       "duration": "5:02",
       "image_url": "https://i.ytimg.com/vi/pvzm-0xGhkM/default.jpg",
-      "track_url": "https://youtube.com/watch?v=pvzm-0xGhkM"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample1.mp3"
     },
     {
       "id": 203,
@@ -119,9 +117,8 @@
       "artist": "Grimes",
       "duration": "4:12",
       "image_url": "https://i.ytimg.com/vi/JtH68PJIQLE/default.jpg",
-      "track_url": "https://youtube.com/watch?v=JtH68PJIQLE"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample2.mp3"
     },
-    
     {
       "id": 301,
       "playlist_id": 3,
@@ -129,7 +126,7 @@
       "artist": "K's Choice",
       "duration": "3:55",
       "image_url": "https://i.ytimg.com/vi/7kNzDk2CPHI/default.jpg",
-      "track_url": "https://youtube.com/watch?v=7kNzDk2CPHI"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample3.mp3"
     },
     {
       "id": 302,
@@ -138,7 +135,7 @@
       "artist": "Bon Iver",
       "duration": "5:36",
       "image_url": "https://i.ytimg.com/vi/TWcyIpul8OE/default.jpg",
-      "track_url": "https://youtube.com/watch?v=TWcyIpul8OE"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample4.mp3"
     },
     {
       "id": 303,
@@ -147,9 +144,8 @@
       "artist": "Radiohead",
       "duration": "3:20",
       "image_url": "https://i.ytimg.com/vi/o8HkXeZXPcg/default.jpg",
-      "track_url": "https://youtube.com/watch?v=o8HkXeZXPcg"
+      "track_url": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3"
     },
-    
     {
       "id": 401,
       "playlist_id": 4,
@@ -157,7 +153,7 @@
       "artist": "Ladytron",
       "duration": "3:11",
       "image_url": "https://i.ytimg.com/vi/AoKrfZSTUXo/default.jpg",
-      "track_url": "https://youtube.com/watch?v=AoKrfZSTUXo"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample1.mp3"
     },
     {
       "id": 402,
@@ -166,7 +162,7 @@
       "artist": "Metroland",
       "duration": "4:05",
       "image_url": "https://i.ytimg.com/vi/V6NsNM3HTW4/default.jpg",
-      "track_url": "https://youtube.com/watch?v=V6NsNM3HTW4"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample2.mp3"
     },
     {
       "id": 403,
@@ -175,9 +171,8 @@
       "artist": "Grimes",
       "duration": "4:12",
       "image_url": "https://i.ytimg.com/vi/JtH68PJIQLE/default.jpg",
-      "track_url": "https://youtube.com/watch?v=JtH68PJIQLE"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample3.mp3"
     },
-    
     {
       "id": 501,
       "playlist_id": 5,
@@ -185,7 +180,7 @@
       "artist": "Longing Louisa",
       "duration": "2:51",
       "image_url": "https://i.ytimg.com/vi/AQs4ab99THE/default.jpg",
-      "track_url": "https://youtube.com/watch?v=AQs4ab99THE"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample4.mp3"
     },
     {
       "id": 502,
@@ -194,7 +189,7 @@
       "artist": "Enya",
       "duration": "3:38",
       "image_url": "https://i.ytimg.com/vi/7wfYIMyS_dI/default.jpg",
-      "track_url": "https://youtube.com/watch?v=7wfYIMyS_dI"
+      "track_url": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3"
     },
     {
       "id": 503,
@@ -203,9 +198,8 @@
       "artist": "Sia",
       "duration": "4:33",
       "image_url": "https://i.ytimg.com/vi/ghPcYqn0p4Y/default.jpg",
-      "track_url": "https://youtube.com/watch?v=ghPcYqn0p4Y"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample1.mp3"
     },
-    
     {
       "id": 601,
       "playlist_id": 6,
@@ -213,7 +207,7 @@
       "artist": "Blindness & Light",
       "duration": "3:17",
       "image_url": "https://i.ytimg.com/vi/roIaUb1TWYw/default.jpg",
-      "track_url": "https://youtube.com/watch?v=roIaUb1TWYw"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample2.mp3"
     },
     {
       "id": 602,
@@ -222,7 +216,7 @@
       "artist": "Radiohead",
       "duration": "4:50",
       "image_url": "https://i.ytimg.com/vi/Yf9Jp0bR9Sk/default.jpg",
-      "track_url": "https://youtube.com/watch?v=Yf9Jp0bR9Sk"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample3.mp3"
     },
     {
       "id": 603,
@@ -231,9 +225,8 @@
       "artist": "Bon Iver",
       "duration": "3:58",
       "image_url": "https://i.ytimg.com/vi/ssdgFoHLwnk/default.jpg",
-      "track_url": "https://youtube.com/watch?v=ssdgFoHLwnk"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample4.mp3"
     },
-    
     {
       "id": 701,
       "playlist_id": 7,
@@ -241,7 +234,7 @@
       "artist": "Lulu",
       "duration": "2:52",
       "image_url": "https://i.ytimg.com/vi/JOVQ4vAmM7Y/default.jpg",
-      "track_url": "https://youtube.com/watch?v=JOVQ4vAmM7Y"
+      "track_url": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3"
     },
     {
       "id": 702,
@@ -250,7 +243,7 @@
       "artist": "Adele",
       "duration": "4:55",
       "image_url": "https://i.ytimg.com/vi/YQHsXMglC9A/default.jpg",
-      "track_url": "https://youtube.com/watch?v=YQHsXMglC9A"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample1.mp3"
     },
     {
       "id": 703,
@@ -259,9 +252,8 @@
       "artist": "Miley Cyrus",
       "duration": "3:42",
       "image_url": "https://i.ytimg.com/vi/My2FRPA3Gf8/default.jpg",
-      "track_url": "https://youtube.com/watch?v=My2FRPA3Gf8"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample2.mp3"
     },
-    
     {
       "id": 801,
       "playlist_id": 8,
@@ -269,7 +261,7 @@
       "artist": "Reverend Beat-Man & Milan Slick",
       "duration": "3:28",
       "image_url": "https://i.ytimg.com/vi/CEQsFA-CX3c/default.jpg",
-      "track_url": "https://youtube.com/watch?v=CEQsFA-CX3c"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample3.mp3"
     },
     {
       "id": 802,
@@ -278,7 +270,7 @@
       "artist": "Ramones",
       "duration": "2:12",
       "image_url": "https://i.ytimg.com/vi/6GzGOvdb3wI/default.jpg",
-      "track_url": "https://youtube.com/watch?v=6GzGOvdb3wI"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample4.mp3"
     },
     {
       "id": 803,
@@ -287,9 +279,8 @@
       "artist": "The Clash",
       "duration": "3:19",
       "image_url": "https://i.ytimg.com/vi/EfK-WX2pa8c/default.jpg",
-      "track_url": "https://youtube.com/watch?v=EfK-WX2pa8c"
+      "track_url": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3"
     },
-    
     {
       "id": 901,
       "playlist_id": 9,
@@ -297,7 +288,7 @@
       "artist": "Blues Brothers",
       "duration": "3:05",
       "image_url": "https://i.ytimg.com/vi/XM0TUtqddpg/default.jpg",
-      "track_url": "https://youtube.com/watch?v=XM0TUtqddpg"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample1.mp3"
     },
     {
       "id": 902,
@@ -306,7 +297,7 @@
       "artist": "Queen",
       "duration": "5:55",
       "image_url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/default.jpg",
-      "track_url": "https://youtube.com/watch?v=fJ9rUzIMcZQ"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample2.mp3"
     },
     {
       "id": 903,
@@ -315,11 +306,7 @@
       "artist": "Nirvana",
       "duration": "5:01",
       "image_url": "https://i.ytimg.com/vi/hTWKbfoikeg/default.jpg",
-      "track_url": "https://youtube.com/watch?v=hTWKbfoikeg"
+      "track_url": "https://filesamples.com/samples/audio/mp3/sample3.mp3"
     }
-    
-    
-    
-    
   ]
 }
