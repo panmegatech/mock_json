@@ -1,37 +1,215 @@
 {
   "playlists": [
-    { "id": 1, "title": "Top Hits 2025" },
-    { "id": 2, "title": "Chill Vibes" },
-    { "id": 3, "title": "Workout Pump" },
-    { "id": 4, "title": "Classical Focus" }
+    {
+      "id": 1,
+      "title": "Indie, Pop, Alternative, New Wave 273",
+      "description": "รวมเพลงอินดี้ ป็อป อัลเทอร์เนทีฟ และนิวเวฟ ฟังสบาย ฟีลดี",
+      "image_url": "https://i.ytimg.com/vi/GRdWGLMw8II/default.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Alice <0>",
+      "description": "เพลงจากเพลย์ลิสต์ ALICE <0> แนว experimental และ dreamy",
+      "image_url": "https://i.ytimg.com/vi/5-I1lT6Jbdo/default.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mesmerizing Tracks",
+      "description": "🧘 เพลย์ลิสต์รวมเพลงที่ฟังแล้วล่องลอย เหมือน musical weed",
+      "image_url": "https://i.ytimg.com/vi/7kNzDk2CPHI/default.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Electro, Synthpop",
+      "description": "รวมเพลง electronic และ synthpop",
+      "image_url": "https://i.ytimg.com/vi/AoKrfZSTUXo/default.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Ethereal, Heavenly Voices",
+      "description": "เพลงที่มีเสียงร้องล่องลอย เหมือนอยู่ในสวรรค์",
+      "image_url": "https://i.ytimg.com/vi/AQs4ab99THE/default.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Indie, Pop, Alternative, New Wave 272",
+      "description": "รวมเพลงอินดี้ป็อปอีกหนึ่งชุดต่อเนื่องจาก 273",
+      "image_url": "https://i.ytimg.com/vi/roIaUb1TWYw/default.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Female Vocalists",
+      "description": "รวมเพลงศิลปินหญิงที่มีพลังเสียงโดดเด่น",
+      "image_url": "https://i.ytimg.com/vi/JOVQ4vAmM7Y/default.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Punk",
+      "description": "เพลงแนวพังค์แบบดิบ ๆ มันส์ ๆ",
+      "image_url": "https://i.ytimg.com/vi/CEQsFA-CX3c/default.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Rock it all!",
+      "description": "รวมเพลงร็อคในตำนานและเพลงดัง",
+      "image_url": "https://i.ytimg.com/vi/XM0TUtqddpg/default.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Darkwave, Goth, Post-Punk",
+      "description": "รวมเพลง darkwave, goth และ post-punk บรรยากาศเข้มขรึม",
+      "image_url": "https://i.ytimg.com/vi/_AX6cTDKRjw/default.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Phili192 2025",
+      "description": "เพลย์ลิสต์เพลงเลือกสรรจาก Phil72 Le Mans",
+      "image_url": "https://i.ytimg.com/vi/ZjqLmCpPyKM/default.jpg"
+    }
   ],
   "songs": [
-    { "id": 1, "playlistId": 1, "title": "Flowers", "artist": "Miley Cyrus", "youtubeUrl": "https://www.youtube.com/watch?v=G7KNmW9a75Y" },
-    { "id": 2, "playlistId": 1, "title": "As It Was", "artist": "Harry Styles", "youtubeUrl": "https://www.youtube.com/watch?v=H5v3kku4y6Q" },
-    { "id": 3, "playlistId": 1, "title": "Unholy", "artist": "Sam Smith, Kim Petras", "youtubeUrl": "https://www.youtube.com/watch?v=wyx6JDQCslE" },
-    { "id": 4, "playlistId": 1, "title": "Anti-Hero", "artist": "Taylor Swift", "youtubeUrl": "https://www.youtube.com/watch?v=b1kbLwvqugk" },
-    { "id": 5, "playlistId": 1, "title": "Calm Down", "artist": "Rema, Selena Gomez", "youtubeUrl": "https://www.youtube.com/watch?v=WcIcVapfqXw" },
-    { "id": 6, "playlistId": 1, "title": "Kill Bill", "artist": "SZA", "youtubeUrl": "https://www.youtube.com/watch?v=MSRcC626prw" },
+    {
+      "id": 101,
+      "playlist_id": 1,
+      "title": "LUCKY - Falling Through",
+      "image_url": "https://i.ytimg.com/vi/GRdWGLMw8II/default.jpg",
+      "track_url": "https://youtube.com/watch?v=GRdWGLMw8II"
+    },
+    {
+      "id": 102,
+      "playlist_id": 1,
+      "title": "Zenxith - I’m Not Gonna Make That Jump For You",
+      "image_url": "https://i.ytimg.com/vi/8mPKt6xMVYw/default.jpg",
+      "track_url": "https://youtube.com/watch?v=8mPKt6xMVYw"
+    },
+    {
+      "id": 103,
+      "playlist_id": 1,
+      "title": "Keuning - I Ruined You",
+      "image_url": "https://i.ytimg.com/vi/IHApGhd3PSY/default.jpg",
+      "track_url": "https://youtube.com/watch?v=IHApGhd3PSY"
+    },
+    {
+      "id": 104,
+      "playlist_id": 1,
+      "title": "Shadowgraphs - Blood Right Down",
+      "image_url": "https://i.ytimg.com/vi/vtfbdYB4Pyo/default.jpg",
+      "track_url": "https://youtube.com/watch?v=vtfbdYB4Pyo"
+    },
+    {
+      "id": 105,
+      "playlist_id": 1,
+      "title": "Red Sleeping Beauty - Pop Song",
+      "image_url": "https://i.ytimg.com/vi/4pZ0j8b8R78/default.jpg",
+      "track_url": "https://youtube.com/watch?v=4pZ0j8b8R78"
+    },
+    {
+      "id": 106,
+      "playlist_id": 1,
+      "title": "adults - patterns",
+      "image_url": "https://i.ytimg.com/vi/k2MIY338NTE/default.jpg",
+      "track_url": "https://youtube.com/watch?v=k2MIY338NTE"
+    },
+    {
+      "id": 107,
+      "playlist_id": 1,
+      "title": "The Specific Heats - Midcentury Dream House",
+      "image_url": "https://i.ytimg.com/vi/iEzmOK9OJ40/default.jpg",
+      "track_url": "https://youtube.com/watch?v=iEzmOK9OJ40"
+    },
+    {
+      "id": 108,
+      "playlist_id": 1,
+      "title": "Waves Crashing - Parts of Me (Live)",
+      "image_url": "https://i.ytimg.com/vi/Rwsrle4HenE/default.jpg",
+      "track_url": "https://youtube.com/watch?v=Rwsrle4HenE"
+    },
 
-    { "id": 7, "playlistId": 2, "title": "Heat Waves", "artist": "Glass Animals", "youtubeUrl": "https://www.youtube.com/watch?v=mRD0-GxqHVo" },
-    { "id": 8, "playlistId": 2, "title": "Sunroof", "artist": "Nicky Youre, dazy", "youtubeUrl": "https://www.youtube.com/watch?v=YxWlaYCA8MU" },
-    { "id": 9, "playlistId": 2, "title": "Levitating", "artist": "Dua Lipa", "youtubeUrl": "https://www.youtube.com/watch?v=TUVcZfQe-Kw" },
-    { "id": 10, "playlistId": 2, "title": "Peaches", "artist": "Justin Bieber", "youtubeUrl": "https://www.youtube.com/watch?v=tQ0yjYUFKAE" },
-    { "id": 11, "playlistId": 2, "title": "Good 4 U", "artist": "Olivia Rodrigo", "youtubeUrl": "https://www.youtube.com/watch?v=gNi_6U5Pm_o" },
-    { "id": 12, "playlistId": 2, "title": "Watermelon Sugar", "artist": "Harry Styles", "youtubeUrl": "https://www.youtube.com/watch?v=E07s5ZYygMg" },
+    {
+      "id": 201,
+      "playlist_id": 2,
+      "title": "Yaelokre - Harpy Hare 𓆱 (Illustrated Song)",
+      "image_url": "https://i.ytimg.com/vi/5-I1lT6Jbdo/default.jpg",
+      "track_url": "https://youtube.com/watch?v=5-I1lT6Jbdo"
+    },
 
-    { "id": 13, "playlistId": 3, "title": "Stronger", "artist": "Kanye West", "youtubeUrl": "https://www.youtube.com/watch?v=PsO6ZnUZI0g" },
-    { "id": 14, "playlistId": 3, "title": "Till I Collapse", "artist": "Eminem", "youtubeUrl": "https://www.youtube.com/watch?v=Obim8BYGnOE" },
-    { "id": 15, "playlistId": 3, "title": "Eye of the Tiger", "artist": "Survivor", "youtubeUrl": "https://www.youtube.com/watch?v=btPJPFnesV4" },
-    { "id": 16, "playlistId": 3, "title": "Can't Hold Us", "artist": "Macklemore & Ryan Lewis", "youtubeUrl": "https://www.youtube.com/watch?v=2zNSgSzhBfM" },
-    { "id": 17, "playlistId": 3, "title": "Lose Yourself", "artist": "Eminem", "youtubeUrl": "https://www.youtube.com/watch?v=_Yhyp-_hX2s" },
-    { "id": 18, "playlistId": 3, "title": "Remember the Name", "artist": "Fort Minor", "youtubeUrl": "https://www.youtube.com/watch?v=VDvr08sCPOc" },
+    {
+      "id": 301,
+      "playlist_id": 3,
+      "title": "K's Choice - Virgin State of Mind.",
+      "image_url": "https://i.ytimg.com/vi/7kNzDk2CPHI/default.jpg",
+      "track_url": "https://youtube.com/watch?v=7kNzDk2CPHI"
+    },
 
-    { "id": 19, "playlistId": 4, "title": "Clair de Lune", "artist": "Claude Debussy", "youtubeUrl": "https://www.youtube.com/watch?v=CvFH_6DNRCY" },
-    { "id": 20, "playlistId": 4, "title": "Nocturne Op.9 No.2", "artist": "Frédéric Chopin", "youtubeUrl": "https://www.youtube.com/watch?v=9E6b3swbnWg" },
-    { "id": 21, "playlistId": 4, "title": "Moonlight Sonata", "artist": "Beethoven", "youtubeUrl": "https://www.youtube.com/watch?v=4Tr0otuiQuU" },
-    { "id": 22, "playlistId": 4, "title": "The Four Seasons: Spring", "artist": "Antonio Vivaldi", "youtubeUrl": "https://www.youtube.com/watch?v=GRxofEmo3HA" },
-    { "id": 23, "playlistId": 4, "title": "Canon in D", "artist": "Johann Pachelbel", "youtubeUrl": "https://www.youtube.com/watch?v=NlprozGcs80" },
-    { "id": 24, "playlistId": 4, "title": "Swan Lake Theme", "artist": "Pyotr Ilyich Tchaikovsky", "youtubeUrl": "https://www.youtube.com/watch?v=9cNQFB0TDfY" }
+    {
+      "id": 401,
+      "playlist_id": 4,
+      "title": "Ladytron - I Believe in You",
+      "image_url": "https://i.ytimg.com/vi/AoKrfZSTUXo/default.jpg",
+      "track_url": "https://youtube.com/watch?v=AoKrfZSTUXo"
+    },
+    {
+      "id": 402,
+      "playlist_id": 4,
+      "title": "metroland - the passenger",
+      "image_url": "https://i.ytimg.com/vi/V6NsNM3HTW4/default.jpg",
+      "track_url": "https://youtube.com/watch?v=V6NsNM3HTW4"
+    },
+
+    {
+      "id": 501,
+      "playlist_id": 5,
+      "title": "Longing Louisa - Waterphile",
+      "image_url": "https://i.ytimg.com/vi/AQs4ab99THE/default.jpg",
+      "track_url": "https://youtube.com/watch?v=AQs4ab99THE"
+    },
+
+    {
+      "id": 601,
+      "playlist_id": 6,
+      "title": "Blindness & Light - Your Solitude",
+      "image_url": "https://i.ytimg.com/vi/roIaUb1TWYw/default.jpg",
+      "track_url": "https://youtube.com/watch?v=roIaUb1TWYw"
+    },
+
+    {
+      "id": 701,
+      "playlist_id": 7,
+      "title": "Lulu - To Sir With Love",
+      "image_url": "https://i.ytimg.com/vi/JOVQ4vAmM7Y/default.jpg",
+      "track_url": "https://youtube.com/watch?v=JOVQ4vAmM7Y"
+    },
+
+    {
+      "id": 801,
+      "playlist_id": 8,
+      "title": "Reverend Beat-Man & Milan Slick - Seduce",
+      "image_url": "https://i.ytimg.com/vi/CEQsFA-CX3c/default.jpg",
+      "track_url": "https://youtube.com/watch?v=CEQsFA-CX3c"
+    },
+
+    {
+      "id": 901,
+      "playlist_id": 9,
+      "title": "Blues Brothers - Soul Man",
+      "image_url": "https://i.ytimg.com/vi/XM0TUtqddpg/default.jpg",
+      "track_url": "https://youtube.com/watch?v=XM0TUtqddpg"
+    },
+
+    {
+      "id": 1001,
+      "playlist_id": 10,
+      "title": "Siouxsie And The Banshees - Song From The Edge Of The World",
+      "image_url": "https://i.ytimg.com/vi/_AX6cTDKRjw/default.jpg",
+      "track_url": "https://youtube.com/watch?v=_AX6cTDKRjw"
+    },
+
+    {
+      "id": 1101,
+      "playlist_id": 11,
+      "title": "Big Thief - Double Infinity (Official Lyric Video)",
+      "image_url": "https://i.ytimg.com/vi/ZjqLmCpPyKM/default.jpg",
+      "track_url": "https://youtube.com/watch?v=ZjqLmCpPyKM"
+    }
   ]
 }
